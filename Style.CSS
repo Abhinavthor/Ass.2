@@ -1,0 +1,33 @@
+p {
+    font-size: 14px;
+    color: orange;
+}
+
+
+
+
+.bio {
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+h2 {
+    text-align: center;
+}
+
+
+.contact p {
+    text-align: center;
+}
+
+
+a[href] {
+    color: blue;
+    text-decoration: none;
+}
+
+a[href]:hover {
+    text-decoration: underline;
+}
